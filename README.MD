@@ -11,7 +11,7 @@ public void returnItem(int itemId, int userId)
 ```
 Este método debe registrar el retorno de un ítem por parte de un usuario. Para esto, debe buscar el ítem en el ArrayList de ítems que el usuario tiene prestados. También debemos verificar que el userId sea válido, comprobando su existencia en la lista de usuarios de la biblioteca. Una vez verificados estos datos, procederemos a cambiar el estado del ítem a disponible y eliminarlo de la lista de ítems prestados del usuario.
 
-En la clase ejercicio1.Main se encuentra un menú que me permite elegir entre las opciones de mostrar los ítems, prestar un ítem o devolver un ítem.
+En la clase ejercicio1.Ejercicio1 se encuentra un menú que me permite elegir entre las opciones de mostrar los ítems, prestar un ítem o devolver un ítem.
 
 ```java
        
