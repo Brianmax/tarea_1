@@ -1,4 +1,4 @@
-package ejercicio4;
+package ejercicio1;
 
 public class Book extends LibraryItem{
     private String author;

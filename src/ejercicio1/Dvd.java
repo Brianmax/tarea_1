@@ -1,4 +1,4 @@
-package ejercicio4;
+package ejercicio1;
 
 public class Dvd extends LibraryItem{
     private String director;
