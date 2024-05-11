@@ -139,7 +139,7 @@ El elemento que mas se repite es: 1
 
 Los codigos son solo ejemplos, usted debe de implementar el codigo necesario para que estos funcionen correctamente.
 
-Implementar las soluciones dentro de los archivos, `Ejercicio2.java`, `Ejercicio3.java` y `Ejercicio5.java` respectivamente.
+Implementar las soluciones dentro de los archivos, `Ejercicio2.java`, `Ejercicio3.java`, `Ejercicio4.java` y `Ejercicio5.java` respectivamente.
 
 El envio se hace mediante classroom, el archivo a enviar debe de ser un archivo comprimido en formato ZIP que contenga el codigo modificado. El formato del archivo debe de ser el siguiente:
 ```
